@@ -31,18 +31,7 @@ fill_value_on, drain_value_on, done, soap_wash, water_wash);
  
   #10 spin_timeout=1; 
   //drained=0; 
-   
-  /* 
-   
-  #0 reset = 0; 
-  #2 start = 1; 
-  #4 door_close = 1; 
-  #3 filled = 1; 
-  #3 detergent_added = 1; 
-  #2 cycle_timeout = 1; 
-  #2 drained = 1;  
-  #3 spin_timeout = 1; 
-  */ 
+  
  end 
   
  always 
